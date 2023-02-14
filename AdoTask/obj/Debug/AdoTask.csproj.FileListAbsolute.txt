@@ -1,0 +1,8 @@
+C:\Users\msubh\OneDrive\Desktop\ADO Task\AdoTask\AdoTask\bin\Debug\AdoTask.exe.config
+C:\Users\msubh\OneDrive\Desktop\ADO Task\AdoTask\AdoTask\bin\Debug\AdoTask.exe
+C:\Users\msubh\OneDrive\Desktop\ADO Task\AdoTask\AdoTask\bin\Debug\AdoTask.pdb
+C:\Users\msubh\OneDrive\Desktop\ADO Task\AdoTask\AdoTask\obj\Debug\AdoTask.csproj.AssemblyReference.cache
+C:\Users\msubh\OneDrive\Desktop\ADO Task\AdoTask\AdoTask\obj\Debug\AdoTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\msubh\OneDrive\Desktop\ADO Task\AdoTask\AdoTask\obj\Debug\AdoTask.csproj.CoreCompileInputs.cache
+C:\Users\msubh\OneDrive\Desktop\ADO Task\AdoTask\AdoTask\obj\Debug\AdoTask.exe
+C:\Users\msubh\OneDrive\Desktop\ADO Task\AdoTask\AdoTask\obj\Debug\AdoTask.pdb
